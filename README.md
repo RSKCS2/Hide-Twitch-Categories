@@ -2,6 +2,8 @@
 
 A simple Tampermonkey script to hide and restore Twitch categories on your Following → Live page.
 
+![Screenshot](https://github.com/RSKCS2/Hide-Twitch-Categories/blob/main/hide_twitch_category.png)
+
 ## ✅ Features
 - Hide any category with a gray ❌ button
 - Hidden categories are remembered
